@@ -1,15 +1,15 @@
 {
-  "static/js/0.46a08a6c.chunk.js": "./static/js/0.46a08a6c.chunk.js",
-  "main.css": "./static/css/main.70084a47.chunk.css",
-  "main.js": "./static/js/main.0ff81b16.chunk.js",
-  "runtime~main.js": "./static/js/runtime~main.5845868c.js",
-  "static/js/3.1da66174.chunk.js": "./static/js/3.1da66174.chunk.js",
-  "static/js/4.5f3198b6.chunk.js": "./static/js/4.5f3198b6.chunk.js",
-  "static/js/5.f446e4d7.chunk.js": "./static/js/5.f446e4d7.chunk.js",
-  "static/js/6.5486425a.chunk.js": "./static/js/6.5486425a.chunk.js",
-  "static/js/7.6c731ab7.chunk.js": "./static/js/7.6c731ab7.chunk.js",
-  "index.html": "./index.html",
-  "precache-manifest.641fa6ceab3b3fcff76fdb51a5c26b72.js": "./precache-manifest.641fa6ceab3b3fcff76fdb51a5c26b72.js",
-  "service-worker.js": "./service-worker.js",
-  "static/media/main.scss": "./static/media/video-player.7eadbc6b.svg"
+  "static/js/0.46a08a6c.chunk.js": "/themoviedb-app/static/js/0.46a08a6c.chunk.js",
+  "main.css": "/themoviedb-app/static/css/main.e16c680f.chunk.css",
+  "main.js": "/themoviedb-app/static/js/main.b7c9db4c.chunk.js",
+  "runtime~main.js": "/themoviedb-app/static/js/runtime~main.9162f9c5.js",
+  "static/js/3.ec43b26e.chunk.js": "/themoviedb-app/static/js/3.ec43b26e.chunk.js",
+  "static/js/4.5fb457e8.chunk.js": "/themoviedb-app/static/js/4.5fb457e8.chunk.js",
+  "static/js/5.4f88e3b9.chunk.js": "/themoviedb-app/static/js/5.4f88e3b9.chunk.js",
+  "static/js/6.ba6c6777.chunk.js": "/themoviedb-app/static/js/6.ba6c6777.chunk.js",
+  "static/js/7.4ca8aef2.chunk.js": "/themoviedb-app/static/js/7.4ca8aef2.chunk.js",
+  "index.html": "/themoviedb-app/index.html",
+  "precache-manifest.f2525d5aaff314a8b025962b66256b43.js": "/themoviedb-app/precache-manifest.f2525d5aaff314a8b025962b66256b43.js",
+  "service-worker.js": "/themoviedb-app/service-worker.js",
+  "static/media/main.scss": "/themoviedb-app/static/media/video-player.7eadbc6b.svg"
 }
